@@ -1,0 +1,10 @@
+{
+	"name": "swapop",
+	"description": "An example of tcenal adding swap operator.",
+	"copyright": "Copyright © 2015, youxkei",
+	"authors": ["Hisayuki Mima"],
+    "license": "CC0",
+	"dependencies": {
+        "tcenal" : "~>0.0.1"
+	}
+}
